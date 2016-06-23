@@ -1,0 +1,6 @@
+#!/Users/qiwang/Documents/PythonCodes_wq/RNNTurorial/rnn-tutorial-rnnlm/rnntutor/bin/python
+
+from nbconvert.nbconvertapp import main
+
+if __name__ == '__main__':
+    main()

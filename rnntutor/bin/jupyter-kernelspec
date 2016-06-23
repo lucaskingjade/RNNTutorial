@@ -1,0 +1,8 @@
+#!/Users/qiwang/Documents/PythonCodes_wq/RNNTurorial/rnn-tutorial-rnnlm/rnntutor/bin/python
+from jupyter_client.kernelspecapp import KernelSpecApp
+
+def main():
+    KernelSpecApp.launch_instance()
+
+if __name__ == '__main__':
+    main()

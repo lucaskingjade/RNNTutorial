@@ -1,0 +1,8 @@
+#!/Users/qiwang/Documents/PythonCodes_wq/RNNTurorial/rnn-tutorial-rnnlm/rnntutor/bin/python
+
+def main():
+    from nbformat.sign import TrustNotebookApp
+    TrustNotebookApp.launch_instance()
+
+if __name__ == '__main__':
+    main()
